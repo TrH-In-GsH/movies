@@ -1,0 +1,18 @@
+import ButtonLike from "./components/ButtonLike"
+import FormEvaluate from "./components/FormEvaluate"
+import RegisterFormHookFormValidation from "./components/RegisterFormHookFormValidation"
+
+
+
+function App() {
+    return (
+        <div>
+            {/* <RegisterFormHookFormValidation /> */}
+            {/* <FormEvaluate /> */}
+            {/* <RegisterFormHookFormValidation /> */}
+            {/* <ButtonLike /> */}
+        </div>
+    )
+}
+
+export default App
